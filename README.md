@@ -1,4 +1,4 @@
-# ece1400-test-repo
+Part 2:
 # python generatedata.py 1000 600 50 "ref_1 txt" "read_1.txt"
 # /Users/nhatle/Desktop
 # reference length:  1000
@@ -14,3 +14,9 @@
 # reference length:  100000
 # number read:  600000
 # read length:  50
+If my code works properly for my test data, I belive it will work correctly for other datasets
+I should expect an exact 15% / 75% / 10% distribution for the reads that align zero, one, and
+two times. I think that wrong entering data or how you understand a problem, will affect the result
+I spend writing the code for 2,5 days.
+
+Part 3:
