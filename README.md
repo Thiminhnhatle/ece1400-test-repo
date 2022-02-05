@@ -20,3 +20,12 @@ two times. I think that wrong entering data or how you understand a problem, wil
 I spend writing the code for 2,5 days.
 
 Part 3:
+# python processdata.py ref_1.txt reads_1.txt align_1.txt
+# reference length:  1000
+# number read:  600
+# elapsed time:  0.004067897796630859
+# python processdata.py ref_2.txt reads_2.txt align_2.txt
+# reference length:  10000
+# number read:  6000
+# elapsed time:  0.17246794700622559
+I spend writing the code for 2 days
